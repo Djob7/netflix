@@ -1,0 +1,17 @@
+.filter {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+  align-items: center;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.boubou{
+  display: flex;
+  justify-content: space-around;
+}
+
